@@ -1,7 +1,8 @@
 # 🎮 3vs3 Bulls and Cows (Windows, Mac)  
 ### Unity를 활용한 3대3 멀티 숫자야구 게임
 
-**3vs3 Bulls and Cows**는 Unity를 활용하여 개발한 3대3 멀티플레이 숫자야구 게임입니다. 이 게임은 Windows와 Mac에서 실행 가능하며, Photon Unity Networking을 통해 멀티플레이 기능을 지원합니다.
+- Unity를 활용하여 개발한 3대3 멀티플레이 숫자야구 게임입니다. 
+- Windows와 Mac에서 실행 가능하며, Photon Unity Networking을 통해 멀티플레이 기능을 지원합니다.
 
 ---
 

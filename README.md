@@ -21,7 +21,7 @@
 - **C#**: 게임 로직 및 상호작용 구현
 
 ## 기획서/구현방법
-[최종 발표 ppt](team6final.pdf)
+- [최종 발표 ppt](team6final.pdf)
 
 ## 데모 영상
 - [3VS3BullsAndCowsDemo](https://youtu.be/sCLKBcmkTKE)
